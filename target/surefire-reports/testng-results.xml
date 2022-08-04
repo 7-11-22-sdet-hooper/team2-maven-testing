@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-08-03T12:48:31 CDT" name="MavenTesting" finished-at="2022-08-03T12:48:31 CDT" duration-ms="179">
+  <suite started-at="2022-08-04T10:49:10 CDT" name="CalculatorTest" finished-at="2022-08-04T10:49:10 CDT" duration-ms="127">
     <groups>
     </groups>
-    <test started-at="2022-08-03T12:48:31 CDT" name="Maven Testing" finished-at="2022-08-03T12:48:31 CDT" duration-ms="179">
-      <class name="MavenTesting">
-        <test-method signature="shouldAddTwoNumbers()[pri:0, instance:MavenTesting@6dbb137d]" started-at="2022-08-03T12:48:31 CDT" name="shouldAddTwoNumbers" finished-at="2022-08-03T12:48:31 CDT" duration-ms="17" status="PASS">
+    <test started-at="2022-08-04T10:49:10 CDT" name="Calculator Testing" finished-at="2022-08-04T10:49:10 CDT" duration-ms="127">
+      <class name="CalculatorTest">
+        <test-method signature="shouldAddTwoNumbers()[pri:0, instance:CalculatorTest@6dbb137d]" started-at="2022-08-04T10:49:10 CDT" name="shouldAddTwoNumbers" finished-at="2022-08-04T10:49:10 CDT" duration-ms="17" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- shouldAddTwoNumbers -->
-      </class> <!-- MavenTesting -->
-    </test> <!-- Maven Testing -->
-  </suite> <!-- MavenTesting -->
+      </class> <!-- CalculatorTest -->
+    </test> <!-- Calculator Testing -->
+  </suite> <!-- CalculatorTest -->
 </testng-results>

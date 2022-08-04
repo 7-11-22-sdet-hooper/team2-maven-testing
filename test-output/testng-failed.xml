@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite name="Failed suite [MavenTesting]" guice-stage="DEVELOPMENT">
+<suite name="Failed suite [CalculatorTest]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Maven Testing(failed)">
     <classes>
-      <class name="MavenTesting">
+      <class name="CalculatorTest">
         <methods>
           <include name="shouldFailToAddTwoNumber"/>
         </methods>
-      </class> <!-- MavenTesting -->
+      </class> <!-- CalculatorTest -->
     </classes>
   </test> <!-- Maven Testing(failed) -->
-</suite> <!-- Failed suite [MavenTesting] -->
+</suite> <!-- Failed suite [CalculatorTest] -->
