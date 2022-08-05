@@ -1,2 +1,4 @@
 Calculator.class
 CalculatorTest.class
+exceptions\InvalidDivisionException.class
+contracts\ICalculator.class
